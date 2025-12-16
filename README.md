@@ -104,7 +104,7 @@ Purpose: Assess current service performance and capacity alignment.
 
 ---
 
-###📌  **Page 2: Training Effectiveness & SLA Impact** (https://github.com/tionna-jackson/Operational-Performance-Workforce-Capacity-Burnout-Risk-Analytics/blob/a288ac201648185d88e5ff0473636de078063d90/Screenshot%202025-12-16%20152117.png)
+### 📌  **Page 2: Training Effectiveness & SLA Impact** (https://github.com/tionna-jackson/Operational-Performance-Workforce-Capacity-Burnout-Risk-Analytics/blob/a288ac201648185d88e5ff0473636de078063d90/Screenshot%202025-12-16%20152117.png)
 
 Purpose: Evaluate training as a driver of service performance and burnout reduction.
 
