@@ -145,9 +145,18 @@ Purpose: Identify high-risk teams and forecast future service gaps.
 ## **Conclusion**
 This project demonstrates how integrated operational and people analytics can support sustainable service delivery, protect SLA performance, and inform leadership decisions. The approach reflects real-world advisory and analytics practices used to drive measurable organizational outcomes.
 
+---
+
+# 🚀 Contact  
+Open to roles in:  
+**People Analytics | Business Analytics | Operations Analytics | Gartner Data Roles**
+
 ## 📎 Author
 **Tionna Jackson**  
 💼 LinkedIn: [linkedin.com/in/tionna-jackson](https://linkedin.com/in/tionna-jackson)
+
+
+
 
 
 
