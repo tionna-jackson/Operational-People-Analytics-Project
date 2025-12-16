@@ -88,10 +88,10 @@ A 500-row synthetic dataset representing real-world analyst workforce metrics.
 | predicted_ticket_volume | Forecasted demand |
 
 ---
-## Dashboard Breakdown & Key Insights
+##📌 Dashboard Breakdown & Key Insights
 
-### Page 1: Operational Performance Analytics
-**Purpose:** Assess current service performance and capacity alignment.
+### **Page 1: Operational Performance Analytics**
+Purpose: Assess current service performance and capacity alignment.
 
 **Key Insights:**
 - Capacity utilization exceeds optimal thresholds for some teams, increasing SLA risk.
@@ -102,8 +102,8 @@ A 500-row synthetic dataset representing real-world analyst workforce metrics.
 
 ---
 
-### Page 2: Training Effectiveness & SLA Impact
-**Purpose:** Evaluate training as a driver of service performance and burnout reduction.
+### **Page 2: Training Effectiveness & SLA Impact**
+Purpose: Evaluate training as a driver of service performance and burnout reduction.
 
 **Key Insights:**
 - SLA performance improves as average training hours increase.
@@ -114,8 +114,8 @@ A 500-row synthetic dataset representing real-world analyst workforce metrics.
 
 ---
 
-### Page 3: Operational Risk, Burnout & Workforce Sustainability
-**Purpose:** Identify high-risk teams and forecast future service gaps.
+### **Page 3: Operational Risk, Burnout & Workforce Sustainability**
+Purpose: Identify high-risk teams and forecast future service gaps.
 
 **Key Insights:**
 - Sustained overtime is strongly associated with elevated burnout risk.
@@ -125,9 +125,10 @@ A 500-row synthetic dataset representing real-world analyst workforce metrics.
 **Leadership Takeaway:** Proactive capacity planning and workload redistribution are required to prevent service degradation and workforce attrition.
 
 ---
+## 📊 Dashboard Video 
+(https://www.loom.com/share/4c672812e54e41aab47a9342ea977a9d)
 
-https://www.loom.com/share/4c672812e54e41aab47a9342ea977a9d
-
+---
 ## Final Recommendations
 - Rebalance ticket demand across teams to reduce overload risk.
 - Maintain capacity utilization within a sustainable 70–80% range.
@@ -139,3 +140,12 @@ https://www.loom.com/share/4c672812e54e41aab47a9342ea977a9d
 
 ## Conclusion
 This project demonstrates how integrated operational and people analytics can support sustainable service delivery, protect SLA performance, and inform leadership decisions. The approach reflects real-world advisory and analytics practices used to drive measurable organizational outcomes.
+
+## 📎 Author
+**Tionna Jackson**  
+💼 LinkedIn: [linkedin.com/in/tionna-jackson](https://linkedin.com/in/tionna-jackson)
+
+
+
+
+
