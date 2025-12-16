@@ -89,7 +89,7 @@ A 500-row synthetic dataset representing real-world analyst workforce metrics.
 | predicted_ticket_volume | Forecasted demand |
 
 ---
-##🎯 **Dashboard Breakdown & Key Insights**
+## 🎯 **Dashboard Breakdown & Key Insights**
 
 ### 📌 **Page 1: Operational Performance Analytics** (https://github.com/tionna-jackson/Operational-Performance-Workforce-Capacity-Burnout-Risk-Analytics/blob/a288ac201648185d88e5ff0473636de078063d90/Screenshot%202025-12-16%20152136.png)
 
