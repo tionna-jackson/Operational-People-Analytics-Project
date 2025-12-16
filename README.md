@@ -133,7 +133,7 @@ Purpose: Identify high-risk teams and forecast future service gaps.
 
 ---
 
-## Final Recommendations
+## 💡 Final Recommendations
 - Rebalance ticket demand across teams to reduce overload risk.
 - Maintain capacity utilization within a sustainable 70–80% range.
 - Prioritize training investments for underperforming teams.
@@ -142,7 +142,7 @@ Purpose: Identify high-risk teams and forecast future service gaps.
 
 ---
 
-##💡**Conclusion**
+## **Conclusion**
 This project demonstrates how integrated operational and people analytics can support sustainable service delivery, protect SLA performance, and inform leadership decisions. The approach reflects real-world advisory and analytics practices used to drive measurable organizational outcomes.
 
 ## 📎 Author
