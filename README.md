@@ -126,6 +126,8 @@ A 500-row synthetic dataset representing real-world analyst workforce metrics.
 
 ---
 
+https://www.loom.com/share/4c672812e54e41aab47a9342ea977a9d
+
 ## Final Recommendations
 - Rebalance ticket demand across teams to reduce overload risk.
 - Maintain capacity utilization within a sustainable 70–80% range.
