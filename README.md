@@ -1,4 +1,4 @@
-# 📊  Operational & People Insights Analytics Project  
+# 📊 Operational & People Insights Analytics Project  
 A full end-to-end analytics project designed to reflect the analytical rigor, business storytelling, and decision-making frameworks used at and inspired by **Gartner**. This project blends operational performance data with people analytics to uncover insights that improve SLA performance, forecast capacity, and identify burnout risk. 
 
 
@@ -92,7 +92,7 @@ A 500-row synthetic dataset representing real-world analyst workforce metrics.
 ---
 ## 🎯 **Dashboard Breakdown & Key Insights**
 
-### 📌 **Page 1: Operational Performance Analytics** (https://github.com/tionna-jackson/Operational-Performance-Workforce-Capacity-Burnout-Risk-Analytics/blob/a288ac201648185d88e5ff0473636de078063d90/Screenshot%202025-12-16%20152136.png)
+### 📌 **Page 1: Operational Performance Analytics** (https://github.com/tionna-jackson/Operational-People-Analytics-Project/blob/8cc00ca09e4c10196ce3853f129863e0d991ac84/Screenshot%202025-12-17%20154104.png)
 
 Purpose: Assess current service performance and capacity alignment.
 
