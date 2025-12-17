@@ -1,5 +1,5 @@
-# 📊 Gartner Operational & People Insights Analytics Project  
-A full end-to-end analytics project designed to reflect the analytical rigor, business storytelling, and decision-making frameworks used at **Gartner**. This project blends operational performance data with people analytics to uncover insights that improve SLA performance, forecast capacity, and identify burnout risk. 
+# 📊  Operational & People Insights Analytics Project  
+A full end-to-end analytics project designed to reflect the analytical rigor, business storytelling, and decision-making frameworks used at and inspired by **Gartner**. This project blends operational performance data with people analytics to uncover insights that improve SLA performance, forecast capacity, and identify burnout risk. 
 
 
 # 🧩 Project Overview  
