@@ -118,7 +118,7 @@ Purpose: Evaluate training as a driver of service performance and burnout reduct
 
 ---
 
-### 📌 **Page 3: Operational Risk, Burnout & Workforce Sustainability** (https://github.com/tionna-jackson/Operational-Performance-Workforce-Capacity-Burnout-Risk-Analytics/blob/a288ac201648185d88e5ff0473636de078063d90/Screenshot%202025-12-16%20152047.png)
+### 📌 **Page 3: Operational Risk, Burnout & Workforce Sustainability** (https://github.com/tionna-jackson/Operational-People-Analytics-Project/blob/529cf4ab8bf2f6f609f08702bcbfa19cccd87282/Screenshot%202025-12-17%20154143.png)
 Purpose: Identify high-risk teams and forecast future service gaps.
 
 **Key Insights:**
